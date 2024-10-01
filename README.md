@@ -90,3 +90,6 @@ Comprehensive Churn Analysis: The analysis provided a complete picture of custom
 KPI Development: Using DAX measures, important metrics like churn rate, total customers, and lost customers were defined and could be monitored regularly.
 Interactive Slicers: Allowed users to filter and explore different combinations of demographic and financial data, giving a deeper understanding of churn patterns.
 Data Cleaning & Preprocessing: Structured the data effectively to ensure accurate analysis and meaningful insights.
+
+Link to access project in Maven Analytics:
+https://mavenanalytics.io/project/20129
