@@ -35,7 +35,8 @@ Created age groups (e.g., 20-30, 30-40) for easier customer segmentation.
 ![image](https://github.com/user-attachments/assets/3999efdd-b384-4a5a-8c67-021b14e1a672)
 
 - Replace Values: Simplified categorical values like credit card ownership (e.g., Owned (1) or Not Owned (0)) for better interpretation in the visualizations.
-![image](https://github.com/user-attachments/assets/59edf603-1462-41b4-820e-bdc941308149)
+![image](https://github.com/user-attachments/assets/6ec48a39-10b2-40d2-a23a-038dacc236a3)
+
 
 3. Data Modeling
 The data was modeled and structured to optimize for querying and visualization in Power BI. Relationships between different variables, such as demographics and churn rates, were established to enable meaningful analysis.
