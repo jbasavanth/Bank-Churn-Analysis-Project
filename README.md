@@ -18,25 +18,23 @@ Providing actionable insights through interactive visualizations to help the ban
 Project Structure
 1. Data Cleaning and Preprocessing
 The first phase focused on preparing the data for analysis:
-Use First Row as Header: Ensured that the first row of the dataset was set as the header.
+- Use First Row as Header: Ensured that the first row of the dataset was set as the header.
 ![image](https://github.com/user-attachments/assets/21d70a4e-33d8-4652-8a71-e831381c877d)
-
-Remove Useless Columns: Irrelevant columns like estimated_salary were removed to avoid noise in the analysis.
-![image](https://github.com/user-attachments/assets/cb273b7d-20e3-4496-a9e9-d71b65b1897e)
-
-Rename Columns: Columns were renamed for clarity, making it easier to interpret the data in the final reports.
-Prepare Data Types: Validated and corrected each column’s data type (e.g., numbers, text, dates).
-Add Conditional Columns:
+- Remove Useless Columns: Irrelevant columns like estimated_salary were removed to avoid noise in the analysis.
+![image](https://github.com/user-attachments/assets/e9eeaf80-3719-4341-97ef-369769397466)
+- Rename Columns: Columns were renamed for clarity, making it easier to interpret the data in the final reports.
+- Prepare Data Types: Validated and corrected each column’s data type (e.g., numbers, text, dates).
+- Add Conditional Columns:
 Created age groups (e.g., 20-30, 30-40) for easier customer segmentation.
 ![image](https://github.com/user-attachments/assets/4ef6379d-e3f6-45e5-aba7-d5f835928af9)
 
-Created credit Group (e.g., <=400, 401-500, 501-600, 601-700, 701-800, >800).
+- Created credit Group (e.g., <=400, 401-500, 501-600, 601-700, 701-800, >800).
 ![image](https://github.com/user-attachments/assets/75959722-1bd7-4a17-8893-64aea767bf26)
 
-Defined account balance categories to segment customers based on their financial standing.
+- Defined account balance categories to segment customers based on their financial standing.
 ![image](https://github.com/user-attachments/assets/3999efdd-b384-4a5a-8c67-021b14e1a672)
 
-Replace Values: Simplified categorical values like credit card ownership (e.g., Owned (1) or Not Owned (0)) for better interpretation in the visualizations.
+- Replace Values: Simplified categorical values like credit card ownership (e.g., Owned (1) or Not Owned (0)) for better interpretation in the visualizations.
 ![image](https://github.com/user-attachments/assets/59edf603-1462-41b4-820e-bdc941308149)
 
 3. Data Modeling
