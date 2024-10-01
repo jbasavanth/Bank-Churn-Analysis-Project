@@ -60,6 +60,8 @@ Bar Charts: Illustrated churn across demographics such as age group, gender, ten
 Donut Charts: Showed overall churn rate percentages.
 Interactive Slicers: Allowed filtering by various factors (e.g., gender, age group, credit score) to dynamically explore churn patterns across customer segments.
 Financial Metrics Visualization: Plots and charts depicted relationships between churn and financial metrics like account balance, tenure, and credit score.
+![image](https://github.com/user-attachments/assets/6bec11c4-db65-4816-a83a-104a984f8bc8)
+
 
 6. Analysis and Insights
 Key insights from the analysis include:
